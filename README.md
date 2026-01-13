@@ -33,7 +33,7 @@ I'm a passionate student developer at **Masaryk University** who values efficien
 ---
 
 ### 📈 My GitHub Activity
-[![Nikolaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikolajDev&show_icons=true&theme=tokyonight&hide=typescript,html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Nikolaj's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=NikolajDev&show_icons=true&theme=tokyonight&hide=typescript,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

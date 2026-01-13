@@ -36,8 +36,8 @@ I'm a passionate student developer at **Masaryk University** who values efficien
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NikolajDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=typescript,html,css"/>
   </a>
   <a href="https://github.com/NikolajDev">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NikolajDev&theme=tokyonight"/>
-  </a>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=NikolajDev&theme=tokyonight"/>
+</a>
 </div>
 
 <div align="center">

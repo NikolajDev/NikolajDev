@@ -22,7 +22,7 @@ I'm a passionate student developer who values efficiency and clean code. While m
 
 ### 📊 GitHub Stats
 ![Nikolaj's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=NikolajDev&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NikolajDev&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolajDev&layout=compact&theme=tokyonight&hide=typescript)
 ---
 
 ### 📫 Connect with me

@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Nikolaj]! 👋
 
 I'm a passionate student developer who values efficiency and clean code. While many reach for heavy IDEs, I do my best work in **VS Code** assisted by **Gemini** 🤖 — I believe in using the best tools for the job!
 

@@ -6,11 +6,8 @@ I'm a passionate student developer at **Masaryk University** who values efficien
 ![Programming Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-
-## 🏆 Achievements
-[![Trophies](https://github-profile-trophy.vercel.app/?username=NikolajDev&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
+<img alt="followers" src="https://img.shields.io/github/followers/NikolajDev?label=Followers&style=social">
+--
 
 ## 🌐 Portfolio: [niky.dev](https://niky.dev)
 *Building creative solutions with HTML, CSS, JS, and PHP while exploring the world of Cloud computing!*

@@ -35,13 +35,9 @@ I'm a passionate student developer at **Masaryk University** who values efficien
 ### 📈 My GitHub Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NikolajDev&theme=tokyo-night&hide_border=true)
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikolajDev&theme=tokyonight&hide_border=true" alt="Nikolaj's Streak" />
-</p>
-
 ---
 
 ### 📫 Connect with me
 - 📧 **Email:** [nikolajkalinin2006@gmail.com](mailto:nikolajkalinin2006@gmail.com)
 - 💬 **Discord:** `nikolajk97`
-- 💼 **LinkedIn:** [Add your LinkedIn link here if you have one!]
+- 💼 **LinkedIn:** [Nikolaj](https://www.linkedin.com/in/nikolaj-kalinin-5ba6103a5/)

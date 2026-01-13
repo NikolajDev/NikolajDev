@@ -31,7 +31,19 @@ I'm a passionate student developer at **Masaryk University** who values efficien
 ---
 
 ### 📈 My GitHub Stats
-<img src='https://www.gitclear.com/snap_changelogs/229cc023-f4a6-4d27-a111-31e19a79c7d9.png' />
+<div align="center">
+  <a href="https://github.com/NikolajDev">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NikolajDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=typescript,html,css"/>
+  </a>
+  <a href="https://github.com/NikolajDev">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NikolajDev&theme=tokyonight"/>
+  </a>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NikolajDev&layout=compact&theme=tokyonight&hide=typescript,html,css&langs_count=8"/>
+</div>
 
 ---
 

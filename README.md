@@ -59,3 +59,7 @@ I'm a passionate student developer at **Masaryk University** who values efficien
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=NikolajDev&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </div>
+
+<div align="center">
+  <img src="https://github.com/NikolajDev/NikolajDev/raw/output/github-contribution-grid-snake-dark.svg" />
+</div>

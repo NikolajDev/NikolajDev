@@ -1,3 +1,9 @@
+<div align="center" flex-direction="row">
+  <img alt="followers" src="https://img.shields.io/github/followers/NikolajDev?label=Followers&style=social">
+  <a href="https://www.linkedin.com/in/nikolaj-kalinin-5ba6103a5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/nikolaj.kalinin/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/profile.php?id=100011446456368" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+</div>
 # Hi there, I'm Nikolaj! 👋
 
 I'm a passionate student developer at **Masaryk University** who values efficiency and clean code. While many reach for heavy IDEs, I do my best work in **VS Code** assisted by **Gemini** 🤖 — I believe in using the best tools for the job!
@@ -6,8 +12,6 @@ I'm a passionate student developer at **Masaryk University** who values efficien
 ![Programming Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-<img alt="followers" src="https://img.shields.io/github/followers/NikolajDev?label=Followers&style=social">
---
 
 ## 🌐 Portfolio: [niky.dev](https://niky.dev)
 *Building creative solutions with HTML, CSS, JS, and PHP while exploring the world of Cloud computing!*
@@ -53,9 +57,6 @@ I'm a passionate student developer at **Masaryk University** who values efficien
 - 💬 **Discord:** `nikolajk97`
 - 💼 **LinkedIn:** [Nikolaj](https://www.linkedin.com/in/nikolaj-kalinin-5ba6103a5/)
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=NikolajDev&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</div>
 
 <div align="center">
   <img src="https://github.com/NikolajDev/NikolajDev/raw/output/github-contribution-grid-snake-dark.svg" />

@@ -21,9 +21,12 @@ I'm a passionate student developer who values efficiency and clean code. While m
 ---
 
 ### 📊 GitHub Stats
-![Nikolaj's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=NikolajDev&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolajDev&layout=compact&theme=tokyonight&hide=typescript)
+![Nikolaj's Stats](https://github-readme-stats.vercel.app/api?username=NikolajDev&show_icons=true&theme=tokyonight)
+
+### 🛠️ Languages I use often:
+[![My Skills](https://skillicons.dev/icons?i=py,js,cpp,cs,kotlin,dart,mysql,azure,github,vscode)](https://skillicons.dev)
 ---
 
 ### 📫 Connect with me
-- You can find me right here on GitHub working on my next project!
+Email: nikolajkalinin2006@gmail.com
+Discord: nikolajk97

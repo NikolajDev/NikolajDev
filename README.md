@@ -1,34 +1,47 @@
 # Hi there, I'm Nikolaj! 👋
 
-I'm a passionate student developer who values efficiency and clean code. While many reach for heavy IDEs, I do my best work in **VS Code** assisted by **Gemini** 🤖 — I believe in using the best tools for the job!
+I'm a passionate student developer at **Masaryk University** who values efficiency and clean code. While many reach for heavy IDEs, I do my best work in **VS Code** assisted by **Gemini** 🤖 — I believe in using the best tools for the job!
+
+### 💬 Random Dev Quote
+![Programming Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-### 🛠️ My Tech Stack
-
-- **Languages:** Python, JavaScript, and a bit from these: C++, Java, Kotlin, Flutter(Dart),] 
-- **Editor of Choice:** VS Code (with all the right extensions)
-- **AI Partner:** Gemini 
-- **Cloud Exploration:** **https://niky.dev** domain on hostgator, with the database in MySQL 
+## 🌐 Portfolio: [niky.dev](https://niky.dev)
+*Building creative solutions with HTML, CSS, JS, and PHP while exploring the world of Cloud computing!*
 
 ---
+
 ### 🛠️ Tech Stack & Tools
-[![My Skills](https://skillicons.dev/icons?i=py,js,cpp,cs,kotlin,dart,mysql,azure,github,vscode,linux)](https://skillicons.dev)
+
+- **Languages:** Python, JavaScript, C++, Haskell, Java, Kotlin, Dart (Flutter)
+- **Editor of Choice:** **VS Code** (with my favorite extensions)
+- **AI Partner:** **Gemini**
+- **Cloud & DB:** HostGator, MySQL, and currently exploring **Azure** ☁️
+
+**I am always ready and eager to learn new technologies!**
+
+[![My Skills](https://skillicons.dev/icons?i=py,js,cpp,haskell,dart,mysql,github,vscode,linux,azure)](https://skillicons.dev)
 
 ---
 
-### 🎓 Academic Journey
-- 📚 Currently pursuing my studies in Computer Science on Masaryk University.
-- 🎯 Open to remote Junior Developer opportunities where I can solve complex bugs and contribute to scalable projects.
-- 🚀 Always learning new ways to deploy scalable applications.
+### 🎓 Academic Journey & Career
+- 📚 **University:** Currently studying Computer Science at **Masaryk University (MUNI)**.
+- 🎯 **Goal:** Open to remote **Junior Developer** positions where I can solve complex bugs and contribute to scalable projects.
+- 🚀 **Mission:** Ready to face errors, solve bugs, and build a career with a starting goal of $1500+/month.
 
 ---
 
 ### 📈 My GitHub Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NikolajDev&theme=tokyo-night&hide_border=true)
 
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikolajDev&theme=tokyonight&hide_border=true" alt="Nikolaj's Streak" />
+</p>
+
 ---
 
 ### 📫 Connect with me
-Email: nikolajkalinin2006@gmail.com
-Discord: nikolajk97
+- 📧 **Email:** [nikolajkalinin2006@gmail.com](mailto:nikolajkalinin2006@gmail.com)
+- 💬 **Discord:** `nikolajk97`
+- 💼 **LinkedIn:** [Add your LinkedIn link here if you have one!]

@@ -7,6 +7,11 @@ I'm a passionate student developer at **Masaryk University** who values efficien
 
 ---
 
+## 🏆 Achievements
+[![Trophies](https://github-profile-trophy.vercel.app/?username=NikolajDev&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 🌐 Portfolio: [niky.dev](https://niky.dev)
 *Building creative solutions with HTML, CSS, JS, and PHP while exploring the world of Cloud computing!*
 
@@ -17,11 +22,28 @@ I'm a passionate student developer at **Masaryk University** who values efficien
 - **Languages:** Python, JavaScript, C++, Haskell, Java, Kotlin, Dart (Flutter)
 - **Editor of Choice:** **VS Code** (with my favorite extensions)
 - **AI Partner:** **Gemini**
-- **Cloud & DB:** HostGator, MySQL, and currently exploring **Azure** ☁️
+- **Cloud & DB:** HostGator, MySQL
 
 **I am always ready and eager to learn new technologies!**
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,cpp,haskell,dart,mysql,github,vscode,linux,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,cpp,haskell,dart,mysql,github,vscode,linux)](https://skillicons.dev)
+
+---
+
+### 📈 My GitHub Stats
+<div align="center">
+  <a href="https://github.com/NikolajDev">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NikolajDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=typescript,html,css"/>
+  </a>
+  <a href="https://github.com/NikolajDev">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NikolajDev&theme=tokyonight"/>
+  </a>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NikolajDev&layout=compact&theme=tokyonight&hide=typescript,html,css&langs_count=8"/>
+</div>
 
 ---
 
@@ -32,13 +54,11 @@ I'm a passionate student developer at **Masaryk University** who values efficien
 
 ---
 
-### 📈 My GitHub Activity
-[![Nikolaj's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=NikolajDev&show_icons=true&theme=tokyonight&hide=typescript,html,css)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NikolajDev&layout=compact&theme=tokyonight&hide=typescript,html,css)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 📫 Connect with me
 - 📧 **Email:** [nikolajkalinin2006@gmail.com](mailto:nikolajkalinin2006@gmail.com)
 - 💬 **Discord:** `nikolajk97`
 - 💼 **LinkedIn:** [Nikolaj](https://www.linkedin.com/in/nikolaj-kalinin-5ba6103a5/)
+
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=NikolajDev&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</div>

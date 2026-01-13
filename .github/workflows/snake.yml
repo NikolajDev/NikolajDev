@@ -1,0 +1,31 @@
+name: Generate Snake
+
+on:
+  # Spustí sa to automaticky každú polnoc
+  schedule:
+    - cron: "0 0 * * *" 
+  # Umožní ti to spustiť aj ručne cez tlačidlo
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - uses: Platane/snk@v3
+        with:
+          # Tvoje GitHub meno
+          github_user_name: NikolajDev
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

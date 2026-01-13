@@ -15,7 +15,7 @@ I'm a passionate student developer who values efficiency and clean code. While m
 
 ### 🎓 Academic Journey
 - 📚 Currently pursuing my studies in Computer Science on Masaryk University.
-- 🎯 My target is to make living from internet and I am looking for a remote job, with a start paymeny atleast 1500 $ per month, I am junior dev, and ready to face errors and solve bugs
+- 🎯 Open to remote Junior Developer opportunities where I can solve complex bugs and contribute to scalable projects.
 - 🚀 Always learning new ways to deploy scalable applications.
 
 ---

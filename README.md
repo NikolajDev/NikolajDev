@@ -25,7 +25,7 @@ I'm a passionate student developer who values efficiency and clean code. While m
 ---
 
 ### 📈 My GitHub Activity
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NikolajDev&theme=tokyo-night&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NikolajDev&theme=tokyo-night&hide_border=true)
 
 ---
 

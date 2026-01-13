@@ -12,6 +12,10 @@ I'm a passionate student developer who values efficiency and clean code. While m
 - **Cloud Exploration:** **https://niky.dev** domain on hostgator, with the database in MySQL 
 
 ---
+### 🛠️ Tech Stack & Tools
+[![My Skills](https://skillicons.dev/icons?i=py,js,cpp,cs,kotlin,dart,mysql,azure,github,vscode,linux)](https://skillicons.dev)
+
+---
 
 ### 🎓 Academic Journey
 - 📚 Currently pursuing my studies in Computer Science on Masaryk University.
@@ -20,11 +24,9 @@ I'm a passionate student developer who values efficiency and clean code. While m
 
 ---
 
-### 📊 GitHub Stats
-![Nikolaj's Stats](https://github-readme-stats.vercel.app/api?username=NikolajDev&show_icons=true&theme=tokyonight)
+### 📈 My GitHub Activity
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NikolajDev&theme=tokyo-night&hide_border=true)
 
-### 🛠️ Languages I use often:
-[![My Skills](https://skillicons.dev/icons?i=py,js,cpp,cs,kotlin,dart,mysql,azure,github,vscode)](https://skillicons.dev)
 ---
 
 ### 📫 Connect with me

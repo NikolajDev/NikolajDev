@@ -48,8 +48,6 @@ I'm a passionate student developer at **Masaryk University** who values efficien
   
 </div>
 
-![My LeetCode Stats](./leetcode-stats.svg)
-
 ---
 
 ### 🎓 Academic Journey & Career

@@ -1,15 +1,23 @@
 name: Update LeetCode Stats
 on:
   schedule:
-    - cron: "0 0 * * *" # Spustí sa každú polnoc
-  workflow_dispatch: # Dovolí ti to spustiť aj ručne tlačidlom
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: ["main", "master"]
 
 jobs:
-  update-readme:
+  github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - name: Generate LeetCode Metrics
+        uses: lowlighter/metrics@latest
         with:
-          comment_tag_name: "LEETCODE-STATS"
-          feed_list: "https://leetcode-stats-six.vercel.app/api?username=nikolajdev"
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: leetcode-stats.svg
+          base: ""
+          plugin_leetcode: yes
+          plugin_leetcode_user: nikolajdev  # <--- TU DAJ SVOJE MENO
+          plugin_leetcode_sections: solved, skills

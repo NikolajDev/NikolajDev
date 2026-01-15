@@ -1,0 +1,15 @@
+name: Update LeetCode Stats
+on:
+  schedule:
+    - cron: "0 0 * * *" # Spustí sa každú polnoc
+  workflow_dispatch: # Dovolí ti to spustiť aj ručne tlačidlom
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "LEETCODE-STATS"
+          feed_list: "https://leetcode-stats-six.vercel.app/api?username=nikolajdev"

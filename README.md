@@ -53,7 +53,7 @@ I'm a passionate student developer at **Masaryk University** who values efficien
 ### 🎓 Academic Journey & Career
 - 📚 **University:** Currently studying Computer Science at **Masaryk University (MUNI)**.
 - 🎯 **Goal:** Open to remote **Junior Developer** positions where I can solve complex bugs and contribute to scalable projects.
-- 🚀 **Mission:** Ready to face errors, solve bugs, and build a career with a starting goal of $1500+/month.
+- 🚀 **Mission:** Ready to face errors, solve bugs, and build a career with a starting goal of $500+/month.
 
 ---
 

@@ -43,7 +43,7 @@ I'm a passionate student developer at **Masaryk University** who values efficien
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NikolajDev&layout=compact&theme=tokyonight&hide=typescript,html,css&langs_count=8"/>
 </div>
 
-[![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=nikolajdev&theme=nord&font=montserrat&extension=null)](https://github.com/NikolajDev)
+![My LeetCode Stats](./leetcode-stats.svg)
 
 ---
 

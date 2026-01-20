@@ -13,7 +13,7 @@ I'm a passionate student developer at **Masaryk University** who values efficien
 
 ---
 
-## 🌐 Portfolio: [niky.dev](https://niky.dev) and !.[Droplet with next.js](https://nikydev.me)
+## 🌐 Portfolio: [niky.dev](https://niky.dev) and [Droplet with next.js](https://nikydev.me)
 *Building creative solutions with HTML, CSS, JS, and PHP while exploring the world of Cloud computing!*
 
 ---

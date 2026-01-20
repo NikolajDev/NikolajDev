@@ -23,11 +23,11 @@ I'm a passionate student developer at **Masaryk University** who values efficien
 - **Languages:** Python, JavaScript, C++, Haskell, Java, Kotlin, Dart (Flutter)
 - **Editor of Choice:** **VS Code** (with my favorite extensions)
 - **AI Partner:** **Gemini**
-- **Cloud & DB:** HostGator, MySQL
+- **Cloud & DB:** HostGator, MySQL, DigitalOcean (Droplet)
 
 **I am always ready and eager to learn new technologies!**
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,cpp,haskell,dart,mysql,github,vscode,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,cpp,haskell,dart,mysql,github,vscode,arch,debian)](https://skillicons.dev)
 
 ---
 
